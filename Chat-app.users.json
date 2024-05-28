@@ -1,0 +1,212 @@
+[
+  {
+    "_id": {
+      "$oid": "65e9ff512b58c7144dd26625"
+    },
+    "username": "vivek",
+    "email": "vivekpawarvp07@gmail.com",
+    "password": "12345678",
+    "__v": 0,
+    "Avatar": "http://localhost:3007/Avatars/male1.png",
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e77279cc9f02df875a5db2"
+    },
+    "username": "nidaxj_",
+    "email": "nida@gmail.com",
+    "password": "Vivekkinida",
+    "Avatar": "http://localhost:3007/Avatars/female3.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e77329cc9f02df875a5db5"
+    },
+    "username": "atharva jaid",
+    "email": "atharvaJaid@gamil.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male2.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e7736bcc9f02df875a5db8"
+    },
+    "username": "aryan",
+    "email": "Aryan@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male3.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e77563cc9f02df875a5dc0"
+    },
+    "username": "Kira",
+    "email": "kira@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male4.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e81547cc9f02df875a5dc5"
+    },
+    "username": "yashraj",
+    "email": "yashraj@123.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male6.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e8a3ec5c2926b2f302943a"
+    },
+    "username": "sakshi",
+    "email": "sakshi@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/female4.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e8a4295c2926b2f302943f"
+    },
+    "username": "pramod",
+    "email": "pramod@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male7.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e8a4925c2926b2f3029444"
+    },
+    "username": "soham",
+    "email": "soham@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male2.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e8a4bf5c2926b2f3029449"
+    },
+    "username": "pranav",
+    "email": "pranav@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male4.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e9e86b5c2926b2f30294a0"
+    },
+    "username": "sonam",
+    "email": "sonam@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/female6.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65e9ea8c59fc9920b79dad72"
+    },
+    "username": "arnav",
+    "email": "arnav@gmail.com",
+    "password": "12345678",
+    "__v": 0,
+    "Avatar": "http://localhost:3007/Avatars/male9.png",
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65ebe19530a531bf7c5a7ea5"
+    },
+    "username": "John snow",
+    "email": "john@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male8.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65ebe26830a531bf7c5a7eac"
+    },
+    "username": "khalise",
+    "email": "khalise@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/female7.png",
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65ec5f1e00dd69dfdcd5319a"
+    },
+    "username": "Kingslayer",
+    "email": "Kingslayer@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male5.png",
+    "timestamp": {
+      "$date": "2024-03-09T13:07:42.714Z"
+    },
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65edfab607020e3587999854"
+    },
+    "username": "batman",
+    "email": "batman@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male4.png",
+    "timestamp": {
+      "$date": "2024-03-10T18:23:50.635Z"
+    },
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65ee96440f37f74dc1c71e8f"
+    },
+    "username": "thor",
+    "email": "thor@gamil.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male9.png",
+    "timestamp": {
+      "$date": "2024-03-11T05:27:32.772Z"
+    },
+    "__v": 0,
+    "isOnline": false
+  },
+  {
+    "_id": {
+      "$oid": "65efe6255ec44a751e14ad62"
+    },
+    "username": "ironman",
+    "email": "ironman@gmail.com",
+    "password": "12345678",
+    "Avatar": "http://localhost:3007/Avatars/male5.png",
+    "timestamp": {
+      "$date": "2024-03-12T05:20:37.464Z"
+    },
+    "__v": 0,
+    "isOnline": false
+  }
+]
